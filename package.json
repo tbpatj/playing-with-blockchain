@@ -17,6 +17,9 @@
   },
   "author": "",
   "license": "ISC",
+  "exports": {
+    "./blockchain": "./blockchain.js"
+  },
   "bugs": {
     "url": "https://github.com/tbpatj/playing-with-blockchain/issues"
   },
